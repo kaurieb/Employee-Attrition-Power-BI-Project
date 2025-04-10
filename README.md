@@ -21,6 +21,8 @@ Click [here](https://github.com/kaurieb/Power-BI-Project/blob/3791c5636f79e09820
 
 Click [here](https://github.com/kaurieb/Power-BI-Project/blob/3791c5636f79e09820c05845b62cef83932be75e/HR_Data.xlsx) to go to the interactive Power BI Dashboard 
 
+
+
 ## Dataset Structure and Overview
 ![image](https://github.com/user-attachments/assets/cebe0cc0-4cca-41a8-86c7-f2d47a7e47f3)
 
@@ -37,11 +39,15 @@ The **Jobs** table links Job_ID with specific job roles: Laboratory Technician, 
 
 The **Departments** table maps Department_ID to department names: Sales, Research and Development and Human Resources, aiding in the interpretation of department codes in the HR_Data table.
 
+
+
 ## Executive Summary 
 My analysis reveals that attrition is driven by distinct patterns across demographics, employee tenure, and departments. Early-career employees in the age range of 26–35 with ≤ 1 year tenure face the highest turnover risk, highlighting vulnerabilities in onboarding and role alignment. In addition, low compensation is a critical factor in Research Development and HR with 83% of leavers earning ≤5K (the lowest wage bracket), while Sales attrition stems from non-salary issues with 39% of departures being mid-tier earners. Notably, HR exhibits a gender disparity, with female attrition rates doubling the company average for overall female turnover rate (30% vs. 15%). These findings underscore the need for department-specific interventions, with priority given to salary adjustments, early-tenure support, and targeted retention programs for high-risk groups.
 
 Below is the overview page from the interactive Power BI dashboard which can be downloaded here 
 ![image](https://github.com/kaurieb/Power-BI-Project/blob/f9352d0922c7fc60cf116938046fa199ee0ea43d/whole%20dashboard.png)
+
+
 
 ## Deep Dive Analysis  
 ### A.	Gender Analysis
@@ -55,7 +61,7 @@ Below is the overview page from the interactive Power BI dashboard which can be 
   
 ![image](https://github.com/kaurieb/Power-BI-Project/blob/9cfceeb98670c754fbce99a757bd536c0f4566fd/female%20attrition.png)
 
-- *Takeaway*: The attrition rates in women should take precedence as their population is not represented as highly as the overall male population at the company 
+- *Takeaway*: The attrition rates in women should take precedence as their population is not represented as highly as the overall male population at the company
 
 #### HR Department:
 - 30% of females in HR left (6 of 20), compared to a 15% average female attrition rate company-wide.
@@ -93,6 +99,8 @@ At first glance, the dashboard shows that 69% of employees who left the company 
 - Limited advancement opportunities.
 - Mismatch between job expectations and reality.
 
+
+
 ## Recommendations
 1. Targeted Salary Adjustments
 - Priority: Research and Development & HR.
@@ -124,6 +132,8 @@ At first glance, the dashboard shows that 69% of employees who left the company 
 - Transparency: Publish salary bands and career progression criteria.
 - Flexibility: Pilot towards hybrid/remote work options to reduce employee burnout.
 - Recognition: Tie rewards to tenure milestones (e.g., bonuses at 1-year mark).
+
+
   
 ## Conclusion
 Attrition is most acute among early-career employees, females in departments that are not well gender represented and, low earners in R&D/HR, while Sales struggles primarily with non-monetary factors. By addressing salary gaps, improving retention for high-risk groups, and fostering a culture of recognition, the company can strive to reduce turnover by 15–20% within 12 months.
@@ -132,6 +142,8 @@ Attrition is most acute among early-career employees, females in departments tha
 2.	Implement salary adjustments in HR/Research and Development.
 3.	Design mentorship programs for Sales and HR.
 You can explore the live dashboards at: 
+
+
 
 ## Caveats and Assumptions
 This analysis was subject to several data limitations. Key fields such as ‘Total Working Years’,’ Years At Company’, and ‘Years In Current Role’ contain significant amounts of missing values, which affected the accuracy of tenure-based insights. Additionally, the dataset also reflected a static snapshot in time, limiting the ability to assess trends or seasonality in attrition patterns.
