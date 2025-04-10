@@ -95,9 +95,7 @@ At first glance, the dashboard shows that 69% of employees who left the company 
 ![image](https://github.com/kaurieb/Power-BI-Project/blob/9cfceeb98670c754fbce99a757bd536c0f4566fd/tenure%20attrition.png)
 
 - Age 26–35, salary ≤5K, and 1 year tenure employees had the highest attrition rates across all departments.
-- Interpretation: Employees in early career stages are most vulnerable to turnover, likely due to:
-- Limited advancement opportunities.
-- Mismatch between job expectations and reality.
+- Interpretation: Employees in early career stages are most vulnerable to turnover, likely due to limited advancement opportunities, which is not particularly enticing to younger folk, keeping them at the lowest salary band throughout the year or possibly mismatch between job expectations and reality.
 
 
 
