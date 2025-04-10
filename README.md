@@ -20,5 +20,16 @@ Click here to go to the interactive Power BI Dashboard
 
 ## Dataset Structure and Overview
 ![image](https://github.com/user-attachments/assets/cebe0cc0-4cca-41a8-86c7-f2d47a7e47f3)
+
 This Database structure as seen above consists of four relational tables: HR_Data, Education, Jobs and Department, with a total row count of 1,481 records
+
+![image](https://github.com/kaurieb/Power-BI-Project/blob/d054499b33738fe20a3a0e6f425375a4faea1e0f/HR%20dataset%20full%20names.png)
+
+The HR_Data table serves as the main dataset, containing detailed employee-level information. Each row represents an individual employee, identified by a unique. This table includes demographic details, employment information, and various performance and satisfaction metrics. However, some columns, such as ‘Total Working Years’ and ‘Years At Company’, contain missing values, indicating potential gaps in historical records.
+
+The Education table is a simple reference mapping between Education_ID and corresponding fields of study: Life Sciences, Medical, Marketing, Technical Degree, Human Resources and Other. This provides context to the Education values found in the HR_Data table, serving as a distinct record of each educational background represented at the company.
+
+The Jobs table links Job_ID with specific job roles: Laboratory Technician, Research Scientist, Sales Representative, Human Resources, Manufacturing Director, Sales Executive, Healthcare Representative, Research Director and Manager, offering clarity for interpreting the JobID in the HR_Data table.
+
+The Departments table maps Department_ID to department names (e.g., Sales, Human Resources), aiding in the interpretation of department codes in the HR_Data table.
 
