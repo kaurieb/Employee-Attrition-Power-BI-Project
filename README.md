@@ -1,7 +1,7 @@
 # Attrition Insights: Diagnosing Turnover to Strengthen Workforce Retention
 #### By Kauri Emmanuel Balasuriya
 
-## Project Background and Overview 
+## Project Background and Overview
 This analysis explores the root causes of employee attrition using a detailed HR dataset that spans demographics, compensation, departmental roles, performance metrics, and employee satisfaction. By identifying and uncovering patterns among high-risk groups such as early-tenure staff, low earners, specific departments, and underrepresented groups, this project highlights critical areas contributing to turnover. These insights will help HR leadership focus on the most impactful drivers of turnover and inform strategies to reduce attrition. To complement my analysis, an interactive Power BI dashboard visualizes critical metrics, enabling real-time tracking of attrition KPIs and at-risk employee profiles across the organization. 
 
 The following five categories were prioritized for analysis based on their statistically significant correlation with attrition rates in our dataset, as well as their actionable potential for HR leadership to implement data-driven strategy. Hence, in this report, insights and recommendations are provided on the following key areas:
@@ -23,7 +23,7 @@ Click [here](https://github.com/kaurieb/Power-BI-Project/blob/3791c5636f79e09820
 
 
 
-## Dataset Structure and Overview
+## Dataset Structure 
 ![image](https://github.com/user-attachments/assets/cebe0cc0-4cca-41a8-86c7-f2d47a7e47f3)
 
 This Database structure as seen above consists of four relational tables: HR_Data, Education, Jobs and Department, with a total row count of 1,481 records
