@@ -1,4 +1,5 @@
 # Human Resources Turnover Rate
+#### By Kauri Emmanuel Balasuriya
 ## Project Background and Overview 
 This analysis explores the root causes of employee attrition using a detailed HR dataset that spans demographics, compensation, departmental roles, performance metrics, and employee satisfaction. By identifying and uncovering patterns among high-risk groups such as early-tenure staff, low earners, specific departments, and underrepresented groups, this project highlights critical areas contributing to turnover. These insights will help HR leadership focus on the most impactful drivers of turnover and inform strategies to reduce attrition. To complement my analysis, an interactive Power BI dashboard visualizes critical metrics, enabling real-time tracking of attrition KPIs and at-risk employee profiles across the organization. 
 
@@ -124,13 +125,12 @@ At first glance, the dashboard shows that 69% of employees who left the company 
   
 ## Conclusion
 Attrition is most acute among early-career employees, females in departments that are not well gender represented and, low earners in R&D/HR, while Sales struggles primarily with non-monetary factors. By addressing salary gaps, improving retention for high-risk groups, and fostering a culture of recognition, the company can strive to reduce turnover by 15–20% within 12 months.
-###Recommended Steps:
+### Recommended Steps:
 1.	Validate findings with exit interview data.
-2.	Pilot salary adjustments in HR/R&D.
+2.	Implement salary adjustments in HR/Research and Development.
 3.	Design mentorship programs for Sales and HR.
 You can explore the live dashboards at: 
 
-
-Caveats and Assumptions
+## Caveats and Assumptions
 This analysis was subject to several data limitations. Key fields such as ‘Total Working Years’,’ Years At Company’, and ‘Years In Current Role’ contain significant amounts of missing values, which affected the accuracy of tenure-based insights. Additionally, the dataset also reflected a static snapshot in time, limiting the ability to assess trends or seasonality in attrition patterns.
 
