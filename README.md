@@ -1,5 +1,6 @@
-# Human Resources Turnover Rate
+# Attrition Insights: Diagnosing Turnover to Strengthen Workforce Retention
 #### By Kauri Emmanuel Balasuriya
+
 ## Project Background and Overview 
 This analysis explores the root causes of employee attrition using a detailed HR dataset that spans demographics, compensation, departmental roles, performance metrics, and employee satisfaction. By identifying and uncovering patterns among high-risk groups such as early-tenure staff, low earners, specific departments, and underrepresented groups, this project highlights critical areas contributing to turnover. These insights will help HR leadership focus on the most impactful drivers of turnover and inform strategies to reduce attrition. To complement my analysis, an interactive Power BI dashboard visualizes critical metrics, enabling real-time tracking of attrition KPIs and at-risk employee profiles across the organization. 
 
