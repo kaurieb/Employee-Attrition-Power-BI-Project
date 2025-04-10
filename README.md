@@ -17,8 +17,9 @@ The following five categories were prioritized for analysis based on their stati
 5.	**Proactive Monitoring** :
    Why? To recommend real-time tracking of high-risk groups to HR leadership to enable early intervention, turning reactive attrition management into proactive employee retention.
 
-Click [here]()to go to the dataset used in this project
-Click [here]() to go to the interactive Power BI Dashboard 
+Click [here](https://github.com/kaurieb/Power-BI-Project/blob/3791c5636f79e09820c05845b62cef83932be75e/HR%20Attrition%20Dashboard.pbix)to go to the raw dataset used in this project
+
+Click [here](https://github.com/kaurieb/Power-BI-Project/blob/3791c5636f79e09820c05845b62cef83932be75e/HR_Data.xlsx) to go to the interactive Power BI Dashboard 
 
 ## Dataset Structure and Overview
 ![image](https://github.com/user-attachments/assets/cebe0cc0-4cca-41a8-86c7-f2d47a7e47f3)
