@@ -19,3 +19,4 @@ Click here to go to the dataset used in this project
 Click here to go to the interactive Power BI Dashboard 
 
 ## Dataset Structure and Overview
+![image alt](![image](https://github.com/user-attachments/assets/cebe0cc0-4cca-41a8-86c7-f2d47a7e47f3)
