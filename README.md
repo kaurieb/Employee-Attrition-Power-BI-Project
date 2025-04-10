@@ -141,7 +141,6 @@ Attrition is most acute among early-career employees, females in departments tha
 1.	Validate findings with exit interview data.
 2.	Implement salary adjustments in HR/Research and Development.
 3.	Design mentorship programs for Sales and HR.
-You can explore the live dashboards at: 
 
 
 
